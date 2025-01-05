@@ -1,2 +1,3 @@
-# Ecosmart_myUniHackathon
-Ecosmart_myUniHackathon
+# Eco Smart
+
+Welcome to our github repo!

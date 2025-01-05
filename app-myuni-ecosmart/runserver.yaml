@@ -1,0 +1,8 @@
+homepage:
+  menu:
+    replace:
+      - desc: EcoSmart
+        screenName: EcoSmart
+        backgroundColor: rgba(0,0,0,0.2)
+        noLabel: true
+        img: "https://portal-ap.campusm.exlibrisgroup.com/assets/Newcastle/NewcastleHackathon/EcoSmart/Eco-Smart-logo.png"
